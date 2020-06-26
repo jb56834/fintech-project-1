@@ -1,10 +1,18 @@
 1. Choose a FinTech domain that you find relevant or interesting.
 Robo-advising
 
-2. Ant Financial
+2. Choose a Fintech company 
+Ant Financial
 
-3. Target project
+3. Choose a target project
 Ant & Vanguard
 https://www.bloomberg.com/news/articles/2020-04-02/ant-vanguard-target-900-million-users-with-china-robo-adviser
 
 
+https://hackernoon.com/the-story-of-ant-financial-4t2aq3zh8
+
+
+https://www.alibabacloud.com/blog/ant-financial-applies-ai-in-financial-sector_595687
+
+
+https://www.investopedia.com/tech/how-fintech-disrupting-wealth-management/
