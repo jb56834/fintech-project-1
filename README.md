@@ -48,22 +48,12 @@ In China, a great threat from mobile world is WeChat with 100 million daily acti
 Ant's wealth management platform is fueled with big growth in the number of transaction users year by year. According to the corporate conference, AI pushed 70% increase in transactions from 2018 to 2019, and users who purchase automatic investment plan jumped 170%. There are many factors in evaluating success of companies in this domain, but most importantly, user size and user experience. Undoubtly that 330 million cumulative users in the platform is a huge advantage. However, so far the reviews were not as satisfying as expected. Some people complain that they are not ready for more complicated investment products, others argue that the social feature is not helful in learning about wealth managments from each other. Although facing many doubts and confusion from users, Ant Fortune still surpassed its competitors in terms of user base, idea in microfinance, and the potential to expanding into more small business through tech platforms. 
 
 ## Recommendations
+Personally I would give two recommendations to Ant to continue thriving in this Fintech age. 
 
+* More focus on the fairness of algorithm. 
+Fairness in wealth management is not equivalent to standardization. Disadvantaged groups, such as females, minority groups, and low-income people, have the right to enjoy financial services equal to others. However, standardized methods easily and unknowingly lead to bias. Perfect fairness and the accuracy of algorithms are likely to collide because the need from investors can be so different. Apart from traditional input data such as account information, Ant could adapt more interactive ways such as games and pyschological test to analyze user's investment preference and risk tolerence. NLP and other statistical models, for example decision tree, can be used to predict personalities of different investors so that they are provided with a more tailored advice with more category and optionality. Data visualization is also important in improving user experience. For instance, a graph on historical performance on the recommended strategy would help users understand better and more willing to proceed with the strategy. 
 
-A
+* More investment on regulatory technology and security infrastructure. 
+Amid all optimism, Ant could get hit by the regulatory curbs in China especially after P2P being swiped out due to regulation policy. It is obvious to see that a more strict and regulated financial system is coming due to Fintech disruption: Chinese government tightening the limits for Ant to issue ABS, *Yu'e Bao* asset growth also been slowing down due to cap on daily subscription and withdrawl limits. It is reasonable for authorities to be wary about systematic risk brought by fintech giants like Ant, but it is always better for the company to be ready for it sooner. Ant need to improve software solutions in areas of Regulatory Reporting, Risk Management, Identity Management & Control, Compliance, and Transaction Monitoring. These RegTechs are of great significance in Ant's future growth and can be achived via big data analytics, real-time report, cloud computing and digital due diligence. 
 
-
-
-
-
-HCI: virtual assistant
-
-
-Human-machine Collaboration Is a Critical Link
-In serving a plethora of users, scalability is fundamental in this process and requires freeing humans from the process to achieve automation. But on the other hand, human intervention is also necessary for the financial system to prevent disastrous risks or system errors. In such hybrid human-machine systems, we need to make sure that the machine prediction and decision-making can be explained, the automation algorithms can be monitored and interrupted, among others.
-
-Fairness of the Algorithms
-Disadvantaged groups, such as females, minority groups, and low-income people, have the right to enjoy financial services equal to others. But standardized methods easily and unknowingly lead to bias. Perfect fairness and the accuracy of algorithms are likely to collide. As machine intelligence plays an increasingly critical role in more and more systems, the design of proper algorithms and metrics to reduce and prevent bias has emerged as a key research direction.
-
-Uncertainty of Financial Risks
-In reality, 'Black Swan' events are disastrous for the financial sector. The source of these uncertainties can be non-linear feedback, hidden variables, or complex dynamic networks. Machine learning in the current status lacks powerful tools to deal with these problems. We have seen a promising direction of combining economic theories, such as the game theory and mechanism design, with machine learning, to push forward the progress of adversary learning, machine learning-based mechanism design, multi-intelligent agents, and causal analysis.
+![markdown-image4](ant_reg.png)
