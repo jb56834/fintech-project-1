@@ -14,7 +14,7 @@ The symbolic meaning behind its name also explains the vision well: although ant
 ## Business Activities
 Ant Financial covers several subsidiaries, including
 * Alipay: A mobile wallet and payments app that can be kept account balance from users on in order to reduce transaction friction and invite investing opportunites
-* Yu'e Bao: A feature in Alipay that allows users to invest with their remaining balance in funds, for example, Tianhong Fund with low risk and annual return 3.5%
+* *Yu'e Bao*: A feature in Alipay that allows users to invest with their remaining balance in funds, for example, Tianhong Fund with low risk and annual return 3.5%
 * Sesame Credit: A third-party credit rating system based on big data that cooperates with business and provides different terms for users with good or poor credit scores
 * *Ant Fortune*: A comprehensive wealth management app that deploys artificial intelligence power to offer tailor-made wealth management serice by teaming up asset management firms 
 
@@ -25,7 +25,7 @@ Comparing to other subsidaries, Ant Fortune grabs more my attention as a relativ
 > connectivity and smart marketing.  <cite> Huang Hao, the president of Digital Finance
 > Business Group at Ant Financial </cite>
 
-As mentioned before, the Yu'e Bao, money-market fund from Tianhong Fund, is the earliest investment product sold on the platform. The fund now has 600 million users. It is a crucial edge of Ant that Alipay users see it as a handy cash manament tool through virtual wallet, and mutually asset manament firms can better leverage users' payment and investment preferences to attract more investors. By June 2019, asset management companies had recorded an average 70 percent growth in the number of transacting users since they opened their accounts on Ant Fortune. The existing user base from Alipay along with win-win cooperation with asset managements firms becomes the unfair advantage that Ant Fortune utilizes. 
+As mentioned before, *Yu'e Bao*, money-market fund from Tianhong Fund, is the earliest investment product sold on the platform. The fund now has 600 million users. It is a crucial edge of Ant that Alipay users see it as a handy cash manament tool through virtual wallet, and mutually asset manament firms can better leverage users' payment and investment preferences to attract more investors. By June 2019, asset management companies had recorded an average 70 percent growth in the number of transacting users since they opened their accounts on Ant Fortune. The existing user base from Alipay along with win-win cooperation with asset managements firms becomes the unfair advantage that Ant Fortune utilizes. 
 
 ![markdown-image3](ant_wealth.jpg)
 
@@ -40,14 +40,17 @@ From answers of a questionnaire or other written or oral inputs, __Naturual Lang
 Moreover,  __Human Computer Interaction__ is also important with introduction of virtual assistant on Ant's wealth management platform. In serving a plethora of users, scalability is fundamental in this process and requires freeing humans from the process to achieve automation. But on the other hand, human intervention is also necessary for the financial system to prevent disastrous risks or system errors. In such hybrid human-machine systems, Ant need to make sure that the machine prediction and decision-making can be explained, the automation algorithms can be monitored and interrupted, among others.  
 
 ## Landscape
-Ant Fortune is a leading Fintech in wealth management in China with huge base of existing small users from Aplipay. The surge of Fintech has a hit on this landscape indeed. According to a McKinsey & Company report from June 2015, 40% to 45% of affluent consumers who changed their primary wealth management firm in the previous two years moved to a digitally-led firm. What’s more, a full 72% of investors under the age of 40 said they would be comfortable working with a virtual financial advisor. Thus, the digitalized trend in wealth management and investment advising is definite. 
+Ant Fortune is a leading Fintech in wealth management in China with huge base of existing small users from Aplipay. The surge of Fintech has a hit on this landscape indeed. According to a McKinsey & Company report from June 2015, 40% to 45% of affluent consumers who changed their primary wealth management firm in the previous two years moved to a digitally-led firm. What’s more, a full 72% of investors under the age of 40 said they would be comfortable working with a virtual financial advisor. As we can see, the digitalized trend in wealth management and investment advising is definite. 
 
-In the U.S., there are quite a few wealth managers which also applies Fintech greatly in transforming their business. For example, Vanguard, Fidelity and Betterment. Recently in April 2020, a new joint venture between Ant and Vanguard has been approved by China Securities Regulatory Commission in which Ant holds 51% stake and Vanguard. The joint venture started offering an automated service called “Bang Ni Tou” (Help You Invest), to capture people with at least 800 yuan ($113) to place in mutual funds. It is clear to see the global agreement in seeing Fintech as the future of wealth management to a more inclusive extent. 
+In China, a great threat from mobile world is WeChat with 100 million daily active users. *The Red Packet* launched for Lunar New Year is a killer feature in which users are able to transfer any amount of money to each other as New Year greeting. However, WeChat focused more on social network than investment management so Ant is not counter-attacking aggressively. In the U.S., there are quite a few wealth managers which also applies Fintech greatly in transforming their business. For example, Vanguard, Fidelity and Betterment. Recently in April 2020, a new joint venture between Ant and Vanguard has been approved by China Securities Regulatory Commission in which Ant holds 51% stake and Vanguard. The joint venture started offering an automated service called *“Bang Ni Tou”* (Help You Invest), to capture people with at least 800 yuan ($113) to place in mutual funds. It is clear to see the global agreement in seeing Fintech as the future of wealth management to a more inclusive extent. 
 
 ## Results
+Ant's wealth management platform is fueled with big growth in the number of transaction users year by year. According to the corporate conference, AI pushed 70% increase in transactions from 2018 to 2019, and users who purchase automatic investment plan jumped 170%. There are many factors in evaluating success of companies in this domain, but most importantly, user size and user experience. Undoubtly that 330 million cumulative users in the platform is a huge advantage. However, so far the reviews were not as satisfying as expected. Some people complain that they are not ready for more complicated investment products, others argue that the social feature is not helful in learning about wealth managments from each other. Although facing many doubts and confusion from users, Ant Fortune still surpassed its competitors in terms of user base, idea in microfinance, and the potential to expanding into more small business through tech platforms. 
+
+## Recommendations
 
 
-
+A
 
 
 
