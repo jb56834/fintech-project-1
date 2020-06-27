@@ -40,7 +40,7 @@ From raw data from questionnaire or other inputs, __Machine Learning__ is used t
 Moreover,  __Human Computer Interaction__ is also a key technology Ant uses with introduction of virtual assistant. In serving a plethora of users, scalability is fundamental in this process and requires freeing humans from the process to achieve automation. But on the other hand, human intervention is also necessary for the financial system to prevent disastrous risks or system errors. In such hybrid human-machine systems, Ant need to make sure that the machine prediction and decision-making can be explained, the automation algorithms can be monitored and interrupted.  
 
 ## Landscape
-Ant Fortune is a leading Fintech in wealth management in China with huge base of existing users from Aplipay. The surge of Fintech has a hit on this landscape indeed. According to a McKinsey & Company report from June 2015, 40% to 45% of affluent consumers who changed their primary wealth management firm in the previous two years moved to a digitally-led firm. What’s more, a full 72% of investors under the age of 40 said they would be comfortable working with a virtual financial advisor. As we can see, the digitalized trend in wealth management and investment advising is definite. 
+Ant Fortune is a leading Fintech in wealth management in China with huge base of existing users from Alipay. The surge of Fintech has a hit on this landscape indeed. According to a McKinsey & Company report from June 2015, 40% to 45% of affluent consumers who changed their primary wealth management firm in the previous two years moved to a digitally-led firm. What’s more, a full 72% of investors under the age of 40 said they would be comfortable working with a virtual financial advisor. As we can see, the digitalized trend in wealth management and investment advising is definite. 
 
 In China, a great threat from mobile world is WeChat. This social App from Tencent has 100 million daily active users, and lauched *The Red Packet*, a killer feature in which users are able to transfer any amount of money to each other as New Year greeting. However, WeChat focused more on social network than investment management, so Ant is not counter-attacking aggressively. In the U.S., there are quite a few wealth managers which also applies Fintech greatly in transforming their business. For example, Vanguard, Fidelity and Betterment. Recently in April 2020, a new joint venture between Ant and Vanguard has been approved by China Securities Regulatory Commission in which Ant holds 51% stake and Vanguard holds 49%. The joint venture started offering an automated service called *“Bang Ni Tou”* (Help You Invest), to capture people with at least 800 yuan ($113) to place in mutual funds. It is a global agreement that Fintech is the future of wealth management and inclusive finance. 
 
@@ -61,7 +61,7 @@ Amid all optimism, Ant could get hit by the regulatory curbs in China especially
 
 
 ---
-**Resources**: 
+**Resources**: <br />
 https://www.bloomberg.com/news/articles/2020-04-02/ant-vanguard-target-900-million-users-with-china-robo-adviser
 
 https://hackernoon.com/the-story-of-ant-financial-4t2aq3zh8
