@@ -13,7 +13,7 @@ The symbolic meaning behind its name also well explains its vision: ants are sma
 
 ## Business Activities
 Ant Financial covers several subsidiaries, including
-* Alipay: A mobile wallet and payments app with account balance in order to reduce transaction friction and invite investing opportunites
+* Alipay: A mobile wallet and payments app with account balance that helps reduce transaction friction and invite investing opportunites
 * *Yu'e Bao*: A feature in Alipay that allows users to invest with their remaining balance in funds, for example, Tianhong Fund with annual return 3.5% and low risk in fixed-income assets
 * Sesame Credit: A third-party credit rating system relying on big data as well as providing different business terms for users based on their scores
 * Ant Fortune: A comprehensive wealth management app that deploys artificial intelligence power to offer tailor-made wealth management serice by teaming up asset management firms 
@@ -25,7 +25,7 @@ Comparing to other subsidaries, **Ant Fortune** grabs more my attention as a new
 > connectivity and smart marketing."  --- Huang Hao, the president of Digital Finance
 > Business Group at Ant Financial
 
-As mentioned before, *Yu'e Bao*, money-market fund from Tianhong Fund, is the earliest investment product sold on the platform. The fund now has 600 million users. It is a crucial edge of Ant that virtual wallet is such a handy cash management tool for all the Alipay users. Mutually, asset manament firms can better leverage this user base in analyzing payment and investment preferences in order to attract more investors. By June 2019, asset management companies had recorded an average 70% growth in the number of transacting users since they opened their accounts on Ant Fortune. The win-win teamwork between Ant and assetmanagment firms becomes the unfair advantage that other competitors are hardly granted. 
+As mentioned before, *Yu'e Bao*, money-market fund from Tianhong Fund, is the earliest investment product sold on the platform. The fund now has 600 million users thanks to the success of *Yu'e Bao*. It is a crucial edge of Ant that virtual wallet is such a handy cash management tool for all the Alipay users. Mutually, asset manament firms can better leverage this user base in analyzing investment preferences in order to attract more investors. By June 2019, asset management companies had recorded an average 70% growth in the number of transacting users since they opened their accounts on Ant Fortune. The win-win teamwork between Ant and assetmanagment firms becomes the unfair advantage that other competitors can hardly match. 
 
 ![markdown-image3](ant_wealth.jpg)
 
@@ -50,10 +50,24 @@ The wealth management platform of Ant Financial is fueled with big growth in the
 ## Recommendations
 I would like to offer two recommendations to Ant Financial for continuously thriving in the Fintech age. 
 
-* More focus on the fairness of algorithm. \ 
-Fairness in wealth management is not equivalent to standardization. Disadvantaged groups, such as females, minority groups, and low-income people, have the right to enjoy financial services equal to others. Perfect standardization and the accuracy of algorithms are likely to lead to bias because the need from investors can be so different. Therefore, apart from traditional input data such as account information, Ant could adapt more interactive ways such as games and pyschological test to get a comprehensive picture of user's background, preference and risk tolerence. NLP and decision trees can be used to predict personalities of different investors so that they are provided with a more tailored and categorized advice. Once users are more willing to accept investment advice conceptually, data visualization is also important in helping understanding the products and improving user experience. For instance, a line plot on historical performance on the recommended strategy would help users understand better and more willing to proceed with the strategy. 
+* More focus on the fairness of algorithm. <br /> 
+Fairness in wealth management is not equivalent to standardization. Disadvantaged groups, such as females, minority groups, and low-income people, have the right to enjoy financial services equal to others. Perfect standardization and the accuracy of algorithms are likely to lead to bias because the need from investors can be so different. Therefore, apart from traditional input data such as account information, Ant could adapt more interactive ways such as games and pyschological test to get a comprehensive picture of user's background, preference and risk tolerence. NLP and decision trees can be used to predict personalities of different investors so that they are provided with more tailored advice. Once users are more willing to accept investment advice conceptually, data visualization is also important in helping understanding the products and improving user experience. For instance, a line plot on historical performance on the recommended strategy would help users understand better and more willing to proceed with the strategy. 
 
-* More investment on regulatory technology and security infrastructure. 
-Amid all optimism, Ant could get hit by the regulatory curbs in China especially after P2P being swiped out due to regulation policy. It is obvious to see that a more strict and regulated financial system is coming due to Fintech disruption: Chinese government tightening the limits for Ant to issue ABS, *Yu'e Bao* asset growth also been slowing down due to cap on daily subscription and withdrawl limits. Authorities have enough reason to be wary about Fintech like Ant given the systematic and macro risk that could disrupt the system in a second. If Ant wants to have a more forseeable future in China, the company need to improve software solutions in areas of Regulatory Reporting, Risk Management, Identity Management & Control, Compliance, and Transaction Monitoring. These RegTechs can be achived via big data analytics, real-time report, cloud computing and digital due diligence, which become significant in a much more regulated financial environment. 
+* More investment on regulatory technology and security infrastructure. <br />
+Amid all optimism, Ant could get hit by the regulatory curbs in China especially after P2P being swiped out due to regulation policy. It is obvious to see that a more strict and regulated financial system is coming as Fintech is more powerful: Chinese government tightening the limits for Ant to issue ABS, *Yu'e Bao* asset growth also been slowing down due to cap on daily subscription and withdrawl limits. Authorities have enough reason to be wary about Fintech like Ant given the systematic and macro risk that could disrupt the system in a second. If Ant wants to have a more forseeable future in China, the company need to improve software solutions in areas of Regulatory Reporting, Risk Management, Identity Management & Control, Compliance, and Transaction Monitoring. These RegTechs can be achived via big data analytics, real-time report, cloud computing and digital due diligence, which become significant in a more regulated financial environment. 
 
 ![markdown-image4](ant_reg.png)
+
+
+
+---
+### Resources: 
+https://www.bloomberg.com/news/articles/2020-04-02/ant-vanguard-target-900-million-users-with-china-robo-adviser
+
+https://hackernoon.com/the-story-of-ant-financial-4t2aq3zh8
+
+https://www.alibabacloud.com/blog/ant-financial-applies-ai-in-financial-sector_595687
+
+https://www.investopedia.com/tech/how-fintech-disrupting-wealth-management/
+
+https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html
