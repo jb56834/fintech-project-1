@@ -50,10 +50,10 @@ The wealth management platform of Ant Financial is fueled with big growth in the
 ## Recommendations
 I would like to offer two recommendations to Ant Financial for continuously thriving in the Fintech age. 
 
-* More focus on the fairness of algorithm. <br /> 
+* **More focus on the fairness of algorithm** <br /> 
 Fairness in wealth management is not equivalent to standardization. Disadvantaged groups, such as females, minority groups, and low-income people, have the right to enjoy financial services equal to others. Perfect standardization and the accuracy of algorithms are likely to lead to bias because the need from investors can be so different. Therefore, apart from traditional input data such as account information, Ant could adapt more interactive ways such as games and pyschological test to get a comprehensive picture of user's background, preference and risk tolerence. NLP and decision trees can be used to predict personalities of different investors so that they are provided with more tailored advice. Once users are more willing to accept investment advice conceptually, data visualization is also important in helping understanding the products and improving user experience. For instance, a line plot on historical performance on the recommended strategy would help users understand better and more willing to proceed with the strategy. 
 
-* More investment on regulatory technology and security infrastructure. <br />
+* **More investment on regulatory technology and security infrastructure** <br />
 Amid all optimism, Ant could get hit by the regulatory curbs in China especially after P2P being swiped out due to regulation policy. It is obvious to see that a more strict and regulated financial system is coming as Fintech is more powerful: Chinese government tightening the limits for Ant to issue ABS, *Yu'e Bao* asset growth also been slowing down due to cap on daily subscription and withdrawl limits. Authorities have enough reason to be wary about Fintech like Ant given the systematic and macro risk that could disrupt the system in a second. If Ant wants to have a more forseeable future in China, the company need to improve software solutions in areas of Regulatory Reporting, Risk Management, Identity Management & Control, Compliance, and Transaction Monitoring. These RegTechs can be achived via big data analytics, real-time report, cloud computing and digital due diligence, which become significant in a more regulated financial environment. 
 
 ![markdown-image4](ant_reg.png)
@@ -61,7 +61,7 @@ Amid all optimism, Ant could get hit by the regulatory curbs in China especially
 
 
 ---
-### Resources: 
+**Resources**: 
 https://www.bloomberg.com/news/articles/2020-04-02/ant-vanguard-target-900-million-users-with-china-robo-adviser
 
 https://hackernoon.com/the-story-of-ant-financial-4t2aq3zh8
